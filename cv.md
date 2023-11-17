@@ -1,4 +1,4 @@
-Здесь будет ссылка на rsschool-cv
+rsschool-cv
 ## **Sergey Bondarik**
 
 ##### **Contacts**
