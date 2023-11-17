@@ -1,4 +1,3 @@
-rsschool-cv
 ## **Sergey Bondarik**
 
 ##### **Contacts**
