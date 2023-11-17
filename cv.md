@@ -6,7 +6,7 @@
 * **[GitHub](https://github.com/sqfyyy)** 
 
 ### **About me:**
-Currently studying computer science and everything related. Interested in front-/ back-end development, design and animations, business-processes and how it all connected
+Currently studying computer science and everything related. Interested in front-/ back-end development, design and animations, business-processes and how it all connected.
 
 ### **Skills:**
 * Basics: HTML, CSS, JS
